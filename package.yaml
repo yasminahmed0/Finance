@@ -24,7 +24,7 @@ dependencies:
 - HDBC
 - HDBC-sqlite3
 - http-conduit
-
+- bytestring
 library:
   source-dirs: src
 
